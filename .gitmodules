@@ -1,0 +1,3 @@
+[submodule "MyCity"]
+	path = MyCity
+	url = https://github.com/CharanKumarH/MyCity.git
